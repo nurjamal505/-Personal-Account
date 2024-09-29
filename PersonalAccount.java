@@ -1,7 +1,7 @@
 /**
  * This class represents a personal bank account.
  * It allows deposits, withdrawals, and keeps track of transaction history.
- *,
+ */
 public class PersonalAccount {
 
     private int accountNumber;
@@ -87,3 +87,4 @@ public class PersonalAccount {
         return accountHolder;
     }
 }
+

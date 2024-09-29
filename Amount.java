@@ -1,7 +1,7 @@
 /**
  * This class represents the amount for a specific transaction.
  * It includes the amount and the type of transaction (DEPOSIT or WITHDRAWAL).
- *.
+ */
 public class Amount {
 
     private double amount;
